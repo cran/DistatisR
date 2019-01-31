@@ -1,6 +1,6 @@
-b84cc988b584ee3d8bad170834ab32f2 *DESCRIPTION
+267aa5b9c87d1c30f1e40b4998c1b011 *DESCRIPTION
 2f2e8c5614fa0be2385789f0a1f587f7 *INDEX
-8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+a76379122cf562781305b67119515370 *NAMESPACE
 a0a2a5acdd434cf5aa9e3ea0b4fde6cd *R/BootFactorScores.R
 5e9270ecba70e6543b6b291ef7e1bb70 *R/BootFromCompromise.R
 f3ebe37d64893800d9ff2612c3d2c531 *R/Chi2Dist.R
@@ -16,9 +16,9 @@ b6e4af497871f79719a108a365808de4 *R/distatis.R
 279788738bcccf6854fd4381d9e091b1 *R/print.Cmat.R
 ee73dd8d2a1522b9eb710b1b26cacec5 *R/print.DistatisR.R
 9963169e4b506b6917885b56adc428f7 *R/print.Splus.R
-52d307ea16a957bac897da671bb54104 *data/DistAlgo.rda
-c492a867cbd4b763adebcb19ff4ea4b0 *data/SortingBeer.rda
-09f3e81db8c4b2cf761d8ad483c0d73d *data/SortingSpice.rda
+685a55be9564c2c03b3dfe5f086702d1 *data/DistAlgo.rda
+e0f65bb25d6257e602184346aa2ee931 *data/SortingBeer.rda
+05910656bfbe2445f914fd5a29801a64 *data/SortingSpice.rda
 854955df5c869288984edb32497f8300 *demo/00Index
 d79f6494ee71c23d0635046a4e8778f2 *demo/demoDistatisRAbdi2005.R
 6b26c9494fd73633cc56e141d734d761 *demo/demoDistatisRAbdiSortingTask2007.R
